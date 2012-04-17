@@ -44,6 +44,7 @@ app.get('/', function(req, res){
 		story2: 'Some football star accompanied some 17 year old leukemia patient to her prom. That\'s quite nice of him, isn\'t it? You\'re directing attention to this? Do you have an infinite supply of attention? No.',
 		story3: 'Attacks subside in the Afghan capital. Does this affect your life? Nope. Really? Yup.',
 		story4: 'North Korean attempted sneak rocket launch utterly fails. Double psychout ftwt, but really who gives a shit? You shouldn\'t.',
+		story5: 'Macs have recently come under assault by trojan viruses on two separate occassions. Is this releveant to you? Mos def madafockaaaa.',
 		date: d2,
 		month: monthname,
 //		  details:
