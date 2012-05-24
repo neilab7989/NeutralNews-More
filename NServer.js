@@ -40,11 +40,11 @@ if (month1 == 12) {monthname = 'December'; }
 
 app.get('/', function(req, res){
 	res.render('home', {
-		story1: 'There\'s allegedly a scandal involving some Secret Service members. Dude, some people are living their life. Got it? Cool, how about you do your shitty work',
+		story1: 'There\'s allegedly a scandal involving some Secret Service members. Dude, some people are living their life. Got it? Cool, how about you do your work',
 		story2: 'Some football star accompanied some 17 year old leukemia patient to her prom. That\'s quite nice of him, isn\'t it? You\'re directing attention to this? Do you have an infinite supply of attention? No.',
 		story3: 'Attacks subside in the Afghan capital. Does this affect your life? Nope. Really? Yup.',
-		story4: 'North Korean attempted sneak rocket launch utterly fails. Double psychout ftwt, but really who gives a shit? You shouldn\'t.',
-		story5: 'Macs have recently come under assault by trojan viruses on two separate occassions. What does this mean really? Virus hit coutnt: Macs: 2, PC: The number grows everyday....',
+		story4: 'North Korean attempted sneak rocket launch utterly fails. Double psychout ftw, but really should you care? You shouldn\'t.',
+		story5: 'Macs have recently come under assault by trojan viruses on two separate occassions. What does this mean really? Virus hit coutnt: Macs: 2, PC: The number grows everyday...',
 		date: d2,
 		month: monthname,
 //		  details:
